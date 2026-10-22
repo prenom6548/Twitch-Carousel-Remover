@@ -4,8 +4,8 @@
 // @version      2.0
 // @icon         https://img.icons8.com/?size=100&id=VJpqTKPYvnx2&format=png&color=000000
 // @description  Removes the front page carousel and silences its video, including after in-site navigation
-// @updateURL    https://github.com/prenom6548/TwitchAdSolutions/raw/master/vaft/vaft.user.js
-// @downloadURL  https://github.com/prenom6548/TwitchAdSolutions/raw/master/vaft/vaft.user.js
+// @updateURL    https://github.com/prenom6548/Twitch-Carousel-Remover/raw/main/twitch-carousel-remover.user.js
+// @downloadURL  https://github.com/prenom6548/Twitch-Carousel-Remover/raw/main/twitch-carousel-remover.user.js
 // @author       https://github.com/LiquidJesus/Twitch-Carousel-Remover
 // @match        https://www.twitch.tv/*
 // @run-at       document-start
